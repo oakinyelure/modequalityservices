@@ -946,7 +946,6 @@ header.header .main-nav .navbar-default .navbar-nav > .open > a:hover {
   position: relative;
 }
 .home-slide-section .slide .swiper-container .swiper-slide .box-desc h2:after {
-  content: "";
   position: absolute;
   left: 0;
   bottom: 8px;
