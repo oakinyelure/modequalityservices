@@ -1012,9 +1012,7 @@ header.header .main-nav .navbar-default .navbar-nav > .open > a:hover {
 }
 
 @media (max-width: 991px) {
-  .home-slide-section {
-    /* End .main-nav */
-  }
+
   .home-slide-section .slide .swiper-container .swiper-slide .box-desc h2 {
     font-size: 40px;
   }
