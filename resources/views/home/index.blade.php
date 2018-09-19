@@ -36,7 +36,7 @@
 		<!-- Swiper -->
 		<div class="swiper-container slide_header_home">
 			<div class="swiper-wrapper">
-				<div class="swiper-slide bg-overlay">
+				<div class="swiper-slide">
 					<img src="/public/images/uploads/free/29609199652_66f27fa0f1_o.jpg" alt="">
 					<div class="box-desc">
 						<div class="container">
@@ -45,7 +45,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide bg-overlay">
+				<div class="swiper-slide">
 					<img src="/public/images/uploads/free/29609195382_e4c29c4faf_o.jpg" alt="">
 					<div class="box-desc">
 						<div class="container">
